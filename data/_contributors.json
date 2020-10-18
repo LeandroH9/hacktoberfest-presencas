@@ -57,6 +57,17 @@
         "username": "LeandroH9",
         "about": "Roi",
         "languages": ["Python", "Java", "C", "JS"],
+    },
+    {
+        "username": "glyve99",
+        "about": "i use arch btw",
+        "languages": ["Python, Typescript, Go"],
+        "year": "2018"
+    },
+    {
+        "username": "karenalmeida18",
+        "about": "I like  coffee",
+        "languages": ["JS"],
         "year": "2019"
     }
 ]
